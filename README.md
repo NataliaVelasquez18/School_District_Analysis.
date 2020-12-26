@@ -1,6 +1,8 @@
 # School District Analysis
 
-## Overview of the project: Explain the purpose of this analysis.
+## Overview of the project: 
+
+In this project we will be analyzing information from a variety of sources on student funding and student standardized test scores.  We will be given access to every student’s math and reading scores and will be reporting to provide insights about performance trends and patterns to help inform discussions and strategic decisions to the school and district level.  The purpose of the analysis will assist the school board and superintendent in making decisions regarding school budgets and priorities.  In this task we will be aware of the family’s educational rights which protects the rights of student education records. We will treat the data with confidentiality to protect the students.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
