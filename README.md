@@ -14,7 +14,7 @@
 ###Scores by school type
 
 
-##Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (7 points)
