@@ -1,8 +1,8 @@
-#School District Analysis
+# School District Analysis
 
-##Overview of the project: Explain the purpose of this analysis.
+## Overview of the project: Explain the purpose of this analysis.
 
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 *How is the district summary affected?
 *How is the school summary affected?
