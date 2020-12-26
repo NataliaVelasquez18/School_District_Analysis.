@@ -6,15 +6,25 @@ In this project we will be analyzing information from a variety of sources on st
 
 According to the school board, there is evidence of academic dishonesty; specifically, reading and math scores for Thomas High School ninth graders. After we performed the analysis in the entire data, we have been tasked to remove reading and math scores for ninth graders at Thomas High School from the analysis while keeping the rest of the data intact.  We have made the adjustments and will describe how these changes affected the overall results.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results:
 
 ### How is the district summary affected?
+
+
 ### How is the school summary affected?
+
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
 ### How does replacing the ninth-grade scores affect the following:
+
 ### Math and reading scores by grade
+
 ### Scores by school spending
+
 ### Scores by school size
+
 ### Scores by school type
 
 
