@@ -28,7 +28,7 @@ Using Python and the Pandas library we were able to read, clean, merge, and anal
 
 1. District summary: 
 
-In the following image we can observe the report of the complete dataset prior to the removal of ninth graders at Thomas High School.  For this analysis we will focus on the Overall Passing Percentage, that in this case is 65%.
+In the following image we can observe the report of the complete dataset prior to the removal of ninth graders at Thomas High School.  For this analysis we will focus on the Overall Passing Percentage, that in this case is 65% and represents the Passing Math and Passing Reading Percentages.
 
 ![prior_to_removal.png](Resources/prior_to_removal.png)
 
