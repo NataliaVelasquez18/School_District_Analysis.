@@ -41,7 +41,12 @@ After removing from our analysis the ninth graders at Thomas High School, we can
 
 2. School summary:
 
+![schools_prior_to_removal.png](Resources/schools_prior_to_removal.png)
 
+
+
+
+![schools_after_removal.png](Resources/schools_after_removal.png)
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
