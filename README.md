@@ -19,16 +19,18 @@ According to the school board, there is evidence of academic dishonesty; specifi
 
 ### Overview of approach:
 
-Using Python and the Pandas library we were able to read, merge, and analyze two csv files located on the Resources folder; students_complete.csv and schools_complete.csv to gain insights and produce this report.
+Using Python and the Pandas library we were able to read, clean, merge, and analyze two csv files located on the Resources folder; students_complete.csv and schools_complete.csv to gain insights and produce this report.
 
 
 
 ## ANALYSIS AND RESULTS
 
 
-1. District summary:
+1. District summary: 
 
-sss
+In the following image we can observe the report of the complete dataset prior to the removal of ninth graders at Thomas High School.  For this analysis we will focus on the Overall Passing Percentage, that in this case is 
+
+![prior_to_removal.png](Resources/prior_to_removal.png)
 
 
 -How is the school summary affected?
