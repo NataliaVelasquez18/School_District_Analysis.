@@ -26,7 +26,9 @@ Using Python and the Pandas library we were able to read, merge, and analyze two
 ## ANALYSIS AND RESULTS
 
 
--How is the district summary affected?
+1. District summary:
+
+sss
 
 
 -How is the school summary affected?
