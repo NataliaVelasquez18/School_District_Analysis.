@@ -30,6 +30,8 @@ Using Python and the Pandas library we were able to read, clean, merge, and anal
 
 In the following image we can observe the report of the complete dataset prior to the removal of ninth graders at Thomas High School.  The overall passing is 65%, passing math is 75%, and passing reading 86%.
 
+Note that the overall passing percentage represent the students who passed both math and reading tests.
+
 ![prior_to_removal.png](Resources/prior_to_removal.png)
 
 After removing from our analysis the ninth graders at Thomas High School, we can notice a slight change of -0.1% in the overall passing, -0.2% in the passing math, and -0.3% passing reading percentages.
