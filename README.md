@@ -1,3 +1,5 @@
+![standardized.png](Resources/standardized.png)
+
 # School District Analysis
 
 ## Overview of the project: 
