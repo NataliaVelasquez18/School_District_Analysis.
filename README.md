@@ -49,23 +49,29 @@ As we can see, prior to the removal of ninth graders at Thomas high school the T
 ![schools_prior_to_removal.png](Resources/schools_prior_to_removal.png)
 
 
-After the removal of the previously mentioned data, Thomas High School still ranks second compared to the other shcools.  There is a slight reduction on the **overall passing percentage** of -0.31%, passing math percentage of -0.09% and passing reading percentage of -0.29% for that school.
+After the removal of the previously mentioned data, Thomas High School is not affected and still ranks second in relation to the other shcools.  There is a slight reduction on the **overall passing percentage** of -0.31%, passing math percentage of -0.09% and passing reading percentage of -0.29% for that school.  The rest of the schools remain in the same positions.
 
 ![schools_after_removal.png](Resources/schools_after_removal.png)
 
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+3. Analysis of the schools by grade, spending, size, and type:
+
+-Math and reading scores by grade:
+
+![grade_before_removal.png](Resources/grade_before_removal.png)
 
 
-### How does replacing the ninth-grade scores affect the following:
 
-### Math and reading scores by grade
+![grade_after_removal.png](Resources/grade_after_removal.png)
 
-### Scores by school spending
+-Scores by school spending
 
-### Scores by school size
+-Scores by school size
 
-### Scores by school type
+-Scores by school type
+
+
+
 
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
