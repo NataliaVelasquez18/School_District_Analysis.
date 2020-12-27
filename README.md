@@ -41,10 +41,15 @@ After removing from our analysis the ninth graders at Thomas High School, we can
 
 2. School summary:
 
+The following image shows us the report on math & reading performance, budget, type of school, and the position of each of the 15 schools in regards to their peers.  The information is sorted in descending order on the **overall passing percentage**, meaning that at the top are the schools with the greatest score. 
+
+As we can see, prior to the removal of ninth graders at Thomas high school the Thomas High Schools ranks second with an **overall passing percentage** of 90.94%.
+
+
 ![schools_prior_to_removal.png](Resources/schools_prior_to_removal.png)
 
 
-
+After the removal of the previously mentioned data, Thomas High School still ranks second compared to the other shcools.  There is a slight reduction on the **overall passing percentage** of -0.31%, passing math percentage of -0.09% and passing reading percentage of -0.29% for that school.
 
 ![schools_after_removal.png](Resources/schools_after_removal.png)
 
