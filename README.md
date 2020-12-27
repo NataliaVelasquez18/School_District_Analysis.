@@ -1,4 +1,4 @@
-![standardized.png](Resources/standardized.png)       ![school.png](Resources/school.png)
+![standardized.png](Resources/standardized.png)       ![school.png](Resources/school.png)     ![budget.png](Resources/budget.png)
 
 # School District Analysis
 
