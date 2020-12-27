@@ -2,7 +2,8 @@
 
 # School District Analysis
 
-## Overview of the project 
+## OVERVIEW OF THE PROJECT
+
 
 ### Description:
 
@@ -20,7 +21,10 @@ According to the school board, there is evidence of academic dishonesty; specifi
 
 Using Python and the Pandas library we were able to read, merge, and analyze two csv files located on the Resources folder; students_complete.csv and schools_complete.csv to gain insights and produce this report.
 
-## Analysis and Results
+
+
+## ANALYSIS AND RESULTS
+
 
 -How is the district summary affected?
 
