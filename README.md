@@ -2,9 +2,9 @@
 
 ## Overview of the project: 
 
-In this project we will be analyzing information from a variety of sources on student funding and student standardized test scores.  We will be given access to every student’s math and reading scores and will be reporting to provide insights about performance trends and patterns to help inform discussions and strategic decisions to the school and district level.  The purpose of the analysis will assist the school board and superintendent in making decisions regarding school budgets and priorities.  In this task we will be aware of the family’s educational rights which protects the rights of student education records. We will treat the data with confidentiality to protect the students.
+In this project we will be analyzing information from a variety of sources at the school district level on student funding and student standardized test scores.  We will be given access to every student’s math and reading scores and will be reporting to provide insights about performance trends and patterns to help inform discussions and strategic decisions.  The purpose of the analysis will assist the school board and superintendent in making decisions regarding school budgets and priorities.  In this task we will be aware of the family’s educational rights which protects the rights of student education records. We will treat the data with confidentiality to protect the students.
 
-According to the school board, there is evidence of academic dishonesty; specifically, reading and math scores for Thomas High School ninth graders. After we performed the analysis in the entire data, we have been tasked to remove reading and math scores for ninth graders at Thomas High School from the analysis while keeping the rest of the data intact.  We have made the adjustments and will describe how these changes affected the overall results.
+According to the school board, there is evidence of academic dishonesty; specifically, reading and math scores for Thomas High School ninth graders. After we performed the analysis in the initial data, we have been tasked to remove reading and math scores for ninth graders at Thomas High School from the analysis while keeping the rest of the data intact.  We have made the adjustments and will describe how these changes affected the overall results.
 
 ## Results:
 
