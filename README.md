@@ -26,7 +26,7 @@ Using Python and the Pandas library we were able to read, clean, merge, and anal
 ## ANALYSIS AND RESULTS
 
 
-1. District summary: 
+**1. District summary:**
 
 In the following image we can observe the report of the complete dataset prior to the removal of ninth graders at Thomas High School.  The overall passing is 65%, passing math is 75%, and passing reading 86%.
 
@@ -39,7 +39,8 @@ After removing from our analysis the ninth graders at Thomas High School, we can
 ![after_removal.png](Resources/after_removal.png)
 
 
-2. School summary:
+
+**2. School summary:**
 
 The following image shows us the report on math & reading performance, budget, type of school, and the position of each of the 15 schools in regards to their peers.  The information is sorted in descending order on the **overall passing percentage**, meaning that at the top are the schools with the greatest score. 
 
@@ -54,9 +55,10 @@ After the removal of the previously mentioned data, Thomas High School is not af
 ![schools_after_removal.png](Resources/schools_after_removal.png)
 
 
-3. Analysis of the schools by grade, spending, size, and type:
+**3. Analysis of the schools by grade, spending, size, and type:**
 
--Math & reading scores by grade: 
+
+**-Math & reading scores by grade:**
 
 
 <table>
@@ -72,17 +74,28 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 
 
--Scores by school spending: The data shows an inverse relationship between spending and performance.  The higher the budget assigned to the schools the lower the performance. It applies for both reading and math. 
+**-Scores by school spending:** 
+
+The data shows an inverse relationship between spending and performance.  The higher the budget assigned to the schools the lower the performance. It applies for both reading and math.
+
 
 ![spending_before.png](Resources/spending_before.png)
 
 
--Scores by school size: 
+
+**-Scores by school size:** 
+
+As we can see small and medium size schools tend to perform better than large schools.
+
 
 ![school_size.png](Resources/school_size.png)
 
--Scores by school type
 
+
+**-Scores by school type:**
+
+
+![school_type.png](Resources/school_type.png)
 
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
