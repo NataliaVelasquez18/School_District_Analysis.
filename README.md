@@ -84,9 +84,8 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Before Removal</td>
+     <td>After Removal</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width=350 height=650></td>
