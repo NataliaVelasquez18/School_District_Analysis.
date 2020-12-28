@@ -82,9 +82,7 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 
 
-<div style="float: right">
-    ![grade_after_removal.png](https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png/350x650 "Title")
-</div>
+![grade_before_removal.png](https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width="350" height="650"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 
