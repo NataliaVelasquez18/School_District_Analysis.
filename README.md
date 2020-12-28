@@ -72,14 +72,14 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 
 
--Scores by school spending
+-Scores by school spending: The data shows an inverse relationship between spending and performance.  The higher the budget assigned to the schools the lower the performance. It applies for both reading and math. 
 
 ![spending_before.png](Resources/spending_before.png)
 
 
-![spending_after.png](Resources/spending_after.png)
+-Scores by school size: 
 
--Scores by school size
+![school_size.png](Resources/school_size.png)
 
 -Scores by school type
 
