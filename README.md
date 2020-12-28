@@ -60,9 +60,14 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 ![grade_before_removal.png](Resources/grade_before_removal.png)
 
+<img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width="250" height="250" />
+
 
 
 ![grade_after_removal.png](Resources/grade_after_removal.png)
+
+
+
 
 -Scores by school spending
 
