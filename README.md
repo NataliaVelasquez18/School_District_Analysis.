@@ -65,8 +65,8 @@ After the removal of the previously mentioned data, Thomas High School is not af
      <td>After</td>
   </tr>
   <tr>
-    <td><img align="center" src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/math_by_grade_before.png" width=350 height=650></td>
-    <td><img align="center" src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/math_by_grade_after.png" width=350 height=650></td>
+    <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/math_by_grade_before.png" width=350 height=650></td>
+    <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/math_by_grade_after.png" width=350 height=650></td>
   </tr>
  </table>
 
@@ -94,19 +94,6 @@ After the removal of the previously mentioned data, Thomas High School is not af
 -Scores by school size
 
 -Scores by school type
-
-
-
-<table>
-  <tr>
-    <td>Before Removal</td>
-     <td>After Removal</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width=350 height=650></td>
-    <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_after_removal.png" width=350 height=650></td>
-  </tr>
- </table>
 
 
 
