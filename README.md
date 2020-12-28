@@ -72,9 +72,12 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 
 
-
-
 -Scores by school spending
+
+![spending_before.png](Resources/spending_before.png)
+
+
+![spending_after.png](Resources/spending_after.png)
 
 -Scores by school size
 
