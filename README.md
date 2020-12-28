@@ -58,7 +58,7 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 -Math and reading scores by grade:
 
-<img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width="450" height="750" />
+<img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width="350" height="650" />
 
 
 
