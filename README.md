@@ -60,7 +60,7 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 **3.1 Math & reading scores by grade:**
 
-9th grade students tend to have a slight lower performance in both math and reading tests compared to the 10th, 11th, and 12th grades.
+9th grade students tend to have a slight lower performance in both math and reading tests compared to the 10th, 11th, and 12th grades. Also, students across all grades show to have higher performance in reading.
 
 <table>
   <tr>
