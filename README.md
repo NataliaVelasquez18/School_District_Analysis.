@@ -34,7 +34,7 @@ Note that the overall passing percentage represent the students who passed both 
 
 ![prior_to_removal.png](Resources/prior_to_removal.png)
 
-After removing from our analysis the ninth graders at Thomas High School, we can notice a slight change of -0.1% in the overall passing, -0.2% in the passing math, and -0.3% passing reading percentages.
+After removing from our analysis the ninth graders at Thomas High School, we can notice a slight decrease of 0.1% in the overall passing, 0.2% in the passing math, and 0.3% passing reading percentages.
 
 ![after_removal.png](Resources/after_removal.png)
 
@@ -50,7 +50,7 @@ As we can see, prior to the removal of ninth graders at Thomas high school the T
 ![schools_prior_to_removal.png](Resources/schools_prior_to_removal.png)
 
 
-After the removal of the previously mentioned data, Thomas High School is not affected and still ranks second in relation to the other shcools.  There is a slight reduction on the **overall passing percentage** of -0.31%, passing math percentage of -0.09% and passing reading percentage of -0.29% for that school.  The rest of the schools remain in the same positions.
+After the removal of the previously mentioned data, Thomas High School is not affected and still ranks second in relation to the other shcools.  There is a slight reduction on the **overall passing percentage** of 0.31%, passing math percentage of 0.09% and passing reading percentage of 0.29% for that school.  The rest of the schools remain in the same positions.
 
 ![schools_after_removal.png](Resources/schools_after_removal.png)
 
@@ -101,37 +101,10 @@ Charter schools show a significantly higher performance than District schools.  
 
 ## SUMMARY
 
-1. 
+1. By removing Thomas High School 9th grade test scores from our analysis, we noticed a small impact in the overall performance of the school.
 
-2. 
+2. After removing from our analysis the ninth graders at Thomas High School, we can notice a slight reduction of 0.1% in the overall passing, 0.2% in the passing math, and 0.3% passing reading percentages.
 
-3.
+3. After the removal of the previously mentioned data, Thomas High School is not affected and still ranks second in relation to the other shcools.  There is a slight reduction on the **overall passing percentage** of 0.31%, passing math percentage of 0.09% and passing reading percentage of 0.29% for that school.
 
-4.
-
-
-
-
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (7 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections (2 pt).
-Each section has a heading and subheading (3 pt).
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (18 points)
-The written analysis has the following:
-
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
-Results:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
+4.The removal of 9th graders at THS does not affect significantly the overall scores of school spending, school size, and school type.
