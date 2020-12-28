@@ -58,7 +58,7 @@ After the removal of the previously mentioned data, Thomas High School is not af
 **3. Analysis of the schools by grade, spending, size, and type:**
 
 
-**-Math & reading scores by grade:**
+**3.1 Math & reading scores by grade:**
 
 
 <table>
@@ -74,7 +74,7 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 
 
-**-Scores by school spending:** 
+**3.2 Scores by school spending:** 
 
 The data shows an inverse relationship between spending and performance.  The higher the budget assigned to the schools the lower the performance. It applies for both reading and math.
 
@@ -83,7 +83,7 @@ The data shows an inverse relationship between spending and performance.  The hi
 
 
 
-**-Scores by school size:** 
+**3.3 Scores by school size:** 
 
 As we can see small and medium size schools tend to perform better than large schools.
 
@@ -92,7 +92,7 @@ As we can see small and medium size schools tend to perform better than large sc
 
 
 
-**-Scores by school type:**
+**3.4 Scores by school type:**
 
 
 ![school_type.png](Resources/school_type.png)
