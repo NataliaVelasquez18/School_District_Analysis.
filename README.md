@@ -56,35 +56,20 @@ After the removal of the previously mentioned data, Thomas High School is not af
 
 3. Analysis of the schools by grade, spending, size, and type:
 
--Math scores by grade: 
+-Math & reading scores by grade: 
 
 
 <table>
   <tr>
-    <td>Before</td>
-     <td>After</td>
+    <td>Math</td>
+     <td>Reading</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/math_by_grade_before.png" width=350 height=650></td>
-    <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/math_by_grade_after.png" width=350 height=650></td>
-  </tr>
- </table>
-
-
--Reading scores by grade:
-
-
-
-<table>
-  <tr>
-    <td>Before</td>
-     <td>After</td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_before_removal.png" width=350 height=650></td>
-    <td><img src="https://github.com/nativelasquez-austin/School_District_Analysis./blob/main/Resources/grade_after_removal.png" width=350 height=650></td>
   </tr>
  </table>
+
 
 
 
