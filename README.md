@@ -108,4 +108,4 @@ Charter schools show a significantly higher performance than District schools.  
 
 3. After the removal of the previously mentioned data, Thomas High School is not affected and still ranks second in relation to the other shcools.  There is a slight reduction on the **overall passing percentage** of 0.31%, passing math percentage of 0.09% and passing reading percentage of 0.29% for that school.
 
-4.The removal of 9th graders at THS does not affect significantly the overall scores of school spending, school size, and school type.
+4. The removal of 9th graders at THS does not affect significantly the overall scores of school spending, school size, and school type.
