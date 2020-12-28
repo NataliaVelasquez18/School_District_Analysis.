@@ -94,11 +94,25 @@ As we can see small and medium size schools tend to perform better than large sc
 
 **3.4 Scores by school type:**
 
+Charter schools show a significantly higher performance than District schools.  This gap is more pronounced in math.
 
 ![school_type.png](Resources/school_type.png)
 
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## SUMMARY
+
+1. 
+
+2. 
+
+3.
+
+4.
+
+
+
+
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (7 points)
