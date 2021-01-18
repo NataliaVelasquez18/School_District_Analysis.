@@ -19,7 +19,7 @@ According to the school board, there is evidence of academic dishonesty; specifi
 
 ### Overview of approach:
 
-Using Python and the Pandas library we were able to read, clean, merge, and analyze two csv files located on the Resources folder; students_complete.csv and schools_complete.csv to gain insights and produce this report.
+Using Python and the Pandas library we were able to read, clean, merge, and analyze two csv files located on the Resources folder; students_complete.csv and schools_complete.csv to gain insights and produce this report. The code used is found in the file PyCitySchools_Challenge.ipynb.
 
 
 
